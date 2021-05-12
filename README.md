@@ -2,10 +2,11 @@
 Script to scrape Guild page for fleet totals for AstroEmpires
 
 ## Setup
-* Copy example.env
+* Copy example.env.py
+* Rename the copy to .env.py
 * Download chrome-driver https://chromedriver.chromium.org/downloads
 * Fill-in the variables in example.env
-* Rename example.env to .env
+* Import packages and launch in command line :
 * ```py main.py```
 
 ## Contributions
